@@ -1,3 +1,3 @@
-**Feedback**
+**StayOnHire Feedback**
 
-All public discussions and customer feedback
+To view all public discussions and customer feedback [click here](https://github.com/orgs/stayonhire/discussions)
